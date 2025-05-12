@@ -15,11 +15,17 @@ I’m a passionate full-stack web developer with a background in computer scienc
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks:**  
-`HTML5` `CSS3` `JavaScript` `React.js` `Node.js` `Express` `MongoDB` `MySQL` `PHP` `Java` `C++`
+**Languages & Frontend:**  
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Vue.js` `React Native` `Next.js` `TailwindCSS` `Bootstrap` `SASS` `Chakra UI` `DaisyUI` `Vite` `jQuery`
 
-**Tools & Technologies:**  
-`Git` `GitHub` `npm` `TailwindCSS` `Sass` `EmailJS` `Cloudinary` `Google OAuth` `Vite`
+**Backend & APIs:**  
+`Node.js` `Express.js` `Nodemon` `MongoDB` `MySQL` `JWT` `Socket.io` `Google OAuth` `OpenAPI` `Postman`
+
+**DevOps & Platforms:**  
+`Git` `GitHub` `Vercel` `Netlify` `Firebase` `Google Cloud` `CI/CD`
+
+**Design & Tools:**  
+`Figma` `Canva` `Adobe Photoshop` `Jira` `ESLint` `Context-API` `Chart.js` 
 
 ---
 
