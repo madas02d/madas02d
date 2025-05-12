@@ -28,7 +28,7 @@ I’m a passionate full-stack web developer with a background in computer scienc
 
 - 📧 Email: [mb.damascene24@gmail.com](mailto:mb.damascene24@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/mbiturimana-jean-damascene](https://www.linkedin.com/in/mbiturimana-jean-damascene)  
-- 🧑‍💻 GitHub: [github.com/madas02d](https://github.com/madas02d)
+- 🧑‍💻 Portfolio: (https://portfolio-g3s6.onrender.com/)
 
 ---
 
