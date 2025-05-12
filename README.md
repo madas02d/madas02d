@@ -23,21 +23,6 @@ I’m a passionate full-stack web developer with a background in computer scienc
 
 ---
 
-### 🚀 Projects
-
-- 🔗 [**Tiny Tales**](https://storybook-creator.onrender.com/)  
-  A platform to share and explore short stories for children (ages 2-7).  
-  `HTML5`, `Tailwind`, `JavaScript`, `Node.js`, `Express`, `MongoDB`, `JWT`, `EmailJS`
-
-- 🔗 [**Fullstack Blogging Platform**](https://blogs-8ocw.onrender.com/)  
-  An intuitive and dynamic web application for blog creation and management.  
-  `HTML5`, `Tailwind`, `JavaScript`, `Node.js`, `Express`, `MongoDB`
-
-- 🔗 [**Music Player**](https://musics-player-xi.vercel.app/)  
-  A modern, responsive audio player built using web audio APIs.  
-  `React`, `Vite`, `Tailwind`, `JavaScript`, `Audio APIs`
-
----
 
 ### 📬 Contact Me
 
