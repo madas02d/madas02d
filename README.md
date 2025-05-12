@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jean Damascene Mbiturimana
+# Jean Damascene Mbiturimana - Full-Stack Web Developer
 
 👨‍💻 **Frontend and Backend Developer** | 💻 **Informatics Professional**  
 📍 Based in Winsen (Luhe), Germany
@@ -56,9 +56,8 @@ I’m a passionate full-stack web developer with a background in computer scienc
 
 ---
 
-### 🎯 Interests
+### 📊 GitHub Stats
 
-`Fitness` `Sports` `Film` `Courses`  
-Always learning, always building. 🚀
+![madas02d's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madas02d&show_icons=true&theme=tokyonight&hide_title=false)
 
----
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madas02d&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
